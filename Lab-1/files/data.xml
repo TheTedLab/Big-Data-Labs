@@ -1,0 +1,33 @@
+<objects>
+    <employees>
+        <employee id="111">
+            <firstName>David</firstName>
+            <lastName>Martinez</lastName>
+            <location>NightCity</location>
+        </employee>
+        <employee id="222">
+            <firstName>Lucy</firstName>
+            <lastName>Kushinada</lastName>
+            <location>NUSA</location>
+        </employee>
+        <employee id="333">
+            <firstName>Valery</firstName>
+            <lastName>Silverhand</lastName>
+            <location>Mexico</location>
+        </employee>
+    </employees>
+    <planets>
+        <planet id="1A8" place="first">
+            <name>Mercury</name>
+        </planet>
+        <planet id="2B7" place="second">
+            <name>Venus</name>
+        </planet>
+        <planet id="3C6" place="third">
+            <name>Earth</name>
+            <facts>
+                <mass>6*10^24</mass>
+            </facts>
+        </planet>
+    </planets>
+</objects>
